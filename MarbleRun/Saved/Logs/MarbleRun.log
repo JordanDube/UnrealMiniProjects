@@ -2557,3 +2557,9 @@ Purging the undo buffer...
 [2020.10.11-21.23.44:552][ 29]LogFileHelpers: Saving map 'Level1' took 0.109
 [2020.10.11-21.23.44:565][ 29]AssetCheck: New page: Asset Save: Level1
 [2020.10.11-21.23.44:565][ 29]LogContentValidation: Display: Validating World /Game/MarbelMaze/Levels/Level1.Level1
+[2020.10.11-21.33.44:733][626]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2020.10.11-21.33.44:737][626]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MarbelMaze/Levels/Level1' took 0.024
+[2020.10.11-21.43.45:218][417]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2020.10.11-21.43.45:219][417]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MarbelMaze/Levels/Level1' took 0.020
+[2020.10.11-21.53.45:751][209]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2020.10.11-21.53.45:751][209]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MarbelMaze/Levels/Level1' took 0.020
