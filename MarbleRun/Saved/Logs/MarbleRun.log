@@ -2563,3 +2563,15 @@ Purging the undo buffer...
 [2020.10.11-21.43.45:219][417]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MarbelMaze/Levels/Level1' took 0.020
 [2020.10.11-21.53.45:751][209]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
 [2020.10.11-21.53.45:751][209]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MarbelMaze/Levels/Level1' took 0.020
+[2020.10.11-22.03.46:441][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2020.10.11-22.03.46:442][  0]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MarbelMaze/Levels/Level1' took 0.024
+[2020.10.11-22.13.46:956][792]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2020.10.11-22.13.46:957][792]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MarbelMaze/Levels/Level1' took 0.020
+[2020.10.11-22.23.47:632][583]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2020.10.11-22.23.47:633][583]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MarbelMaze/Levels/Level1' took 0.024
+[2020.10.11-22.33.48:192][374]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.10.11-22.33.48:193][374]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MarbelMaze/Levels/Level1' took 0.026
+[2020.10.11-22.43.48:682][165]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2020.10.11-22.43.48:683][165]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MarbelMaze/Levels/Level1' took 0.024
+[2020.10.11-22.53.49:402][957]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2020.10.11-22.53.49:403][957]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MarbelMaze/Levels/Level1' took 0.023
