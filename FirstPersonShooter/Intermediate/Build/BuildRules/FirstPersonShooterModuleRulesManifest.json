@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\GitHub\\UnrealMiniProjects\\FirstPersonShooter\\Source\\FirstPersonShooter\\FirstPersonShooter.Build.cs",
+		"D:\\GitHub\\UnrealMiniProjects\\FirstPersonShooter\\Source\\FirstPersonShooter.Target.cs",
+		"D:\\GitHub\\UnrealMiniProjects\\FirstPersonShooter\\Source\\FirstPersonShooterEditor.Target.cs"
+	],
+	"EngineVersion": "4.25.3"
+}

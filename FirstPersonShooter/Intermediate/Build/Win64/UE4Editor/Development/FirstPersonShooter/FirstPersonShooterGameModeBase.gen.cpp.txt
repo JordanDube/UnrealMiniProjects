@@ -1,0 +1,9 @@
+D:\GitHub\UnrealMiniProjects\FirstPersonShooter\Intermediate\Build\Win64\UE4Editor\Development\FirstPersonShooter\Definitions.FirstPersonShooter.h
+D:\UnrealEngine\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\UnrealEngine\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+D:\GitHub\UnrealMiniProjects\FirstPersonShooter\Source\FirstPersonShooter/FirstPersonShooterGameModeBase.h
+D:\UnrealEngine\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+D:\UnrealEngine\UE_4.25\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+D:\UnrealEngine\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+D:\UnrealEngine\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+D:\GitHub\UnrealMiniProjects\FirstPersonShooter\Intermediate\Build\Win64\UE4Editor\Inc\FirstPersonShooter\FirstPersonShooterGameModeBase.generated.h

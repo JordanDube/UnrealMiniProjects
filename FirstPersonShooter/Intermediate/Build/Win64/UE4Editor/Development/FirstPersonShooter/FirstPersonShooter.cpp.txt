@@ -1,0 +1,2 @@
+D:\GitHub\UnrealMiniProjects\FirstPersonShooter\Intermediate\Build\Win64\UE4Editor\Development\FirstPersonShooter\Definitions.FirstPersonShooter.h
+D:\GitHub\UnrealMiniProjects\FirstPersonShooter\Source\FirstPersonShooter\FirstPersonShooter.h
